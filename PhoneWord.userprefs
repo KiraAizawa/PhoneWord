@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{D772B18D-A07A-4A3E-91BB-AB085E2D1B60}|Default">
+  <MonoDevelop.Ide.ItemProperties.PhoneWord AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PhoneWord/MainActivity.cs">
+    <Files>
+      <File FileName="PhoneWord/MainActivity.cs" Line="8" Column="30" />
+      <File FileName="PhoneWord/PhoneTranslator.cs" Line="60" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
