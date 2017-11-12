@@ -1,9 +1,12 @@
 ﻿<Properties StartupConfiguration="{D772B18D-A07A-4A3E-91BB-AB085E2D1B60}|Default">
-  <MonoDevelop.Ide.ItemProperties.PhoneWord AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="PhoneWord/MainActivity.cs">
+  <MonoDevelop.Ide.ItemProperties.PhoneWord AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.LGH915872e8049" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PhoneWord/TranslationHistoryActivity.cs">
     <Files>
-      <File FileName="PhoneWord/MainActivity.cs" Line="8" Column="30" />
+      <File FileName="PhoneWord/MainActivity.cs" Line="44" Column="61" />
       <File FileName="PhoneWord/PhoneTranslator.cs" Line="60" Column="9" />
+      <File FileName="PhoneWord/Resources/values/Strings.xml" Line="6" Column="1" />
+      <File FileName="PhoneWord/TranslationHistoryActivity.cs" Line="6" Column="1" />
+      <File FileName="PhoneWord/packages.config" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
